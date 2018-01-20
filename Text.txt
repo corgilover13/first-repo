@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 Promyana ...
  s Tortoise.
 Tochka
 Promiana s ....
 ima promeni ...
+=======
+
+Promqna s Bash.
+Promyana s Tortois.
+
+>>>>>>> d16ad3cfa04fc049b0a51a521bd5b7dfeef0be66
